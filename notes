@@ -1,1 +1,15 @@
+https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-vnc-on-ubuntu-22-04
+
+nmap localhost
+
+
+vncserver :5 -geometry 900x600 -depth 24
+
+
+#!/bin/sh
+PATH=/usr/bin:/usr/sbin
+unset SESSION_MANAGER
+unset DBUS_SESSION_BUS_ADDRESS
+xrdb $HOME/.Xresources
+exec /usr/bin/xfce4-session
 
