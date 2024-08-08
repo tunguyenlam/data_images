@@ -13,3 +13,19 @@ unset DBUS_SESSION_BUS_ADDRESS
 xrdb $HOME/.Xresources
 exec /usr/bin/xfce4-session
 
+
+Dear [Manager's Name],
+
+I am writing to formally resign from my position on the Compliance Analytics team at [Company's Name], effective [last working day, typically two weeks from the date of this letter].
+
+This decision was not made lightly and comes after careful consideration of my career goals and personal circumstances. I have greatly appreciated the opportunity to work with such a talented and dedicated team and have learned a great deal during my time here.
+
+I am particularly grateful for the support and guidance provided by you and my colleagues. The experiences I have gained here have been invaluable, and I am proud of the work we have accomplished together.
+
+Please let me know how I can assist during the transition period. I am committed to ensuring a smooth handover of my responsibilities and am happy to help train a replacement or address any pending tasks.
+
+Thank you once again for the opportunity to be a part of [Company's Name]. I look forward to staying in touch, and I hope our paths cross again in the future.
+
+Sincerely,
+
+[Your Name]
